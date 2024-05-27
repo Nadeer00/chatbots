@@ -4,7 +4,7 @@ import requests
 from PIL import Image
 from io import BytesIO
 import streamlit as st
-from langchain.chat_models import ChatOpenAI
+#from langchain.chat_models import ChatOpenAI
 from langchain.memory import ConversationBufferMemory
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.chains import ConversationalRetrievalChain

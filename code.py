@@ -1,6 +1,6 @@
 import time
 import requests
-from common import *
+#from common import *
 from PIL import Image
 from io import BytesIO
 import streamlit as st
